@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://cinemacloud.shop'
+window.routerBase = 'https://cinemacloud.shop/'
 window.settings = {
   // 站点名称
   title: '電影院 FilmCloud',
